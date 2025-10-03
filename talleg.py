@@ -16,3 +16,5 @@ while True:
     else:
         print("Du har gættet rigtigt 🎉")
         break
+
+print(":)")
