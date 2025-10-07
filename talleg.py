@@ -1,9 +1,9 @@
 import random
 
 # Vælg et tilfældigt tal mellem 1 og 100
-hemmeligt_tal = random.randint(1, 100)
+hemmeligt_tal = random.randint(1, 5)
 
-print("Gæt et tal mellem 1 og 100!")
+print("Gæt et tal mellem 1 og 5!")
 
 while True:
     # Brugeren gætter
